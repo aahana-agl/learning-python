@@ -1,0 +1,10 @@
+a=5
+b=7
+#AND
+print(a&b)
+#OR
+print(a|b)
+#XOR
+print(a^b)
+#NOT
+print(~b)
