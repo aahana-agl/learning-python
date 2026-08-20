@@ -5,7 +5,8 @@ team4 = 4
 team5 = 1
  
 total = team1 + team2 + team3 + team4 + team5
-average = total / 5
+average = total /
+5
  
 print("Total points       :", total)
 print("Average per team   :", average)
