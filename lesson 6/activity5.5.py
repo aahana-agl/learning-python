@@ -12,7 +12,7 @@ else:
     print("the weathers great you should go for a walk")
 
 
-wind_speed=int(input("enter the wind speed in kp/h"))
+wind_speed=int(input("enter the wind speed in km/h"))
 if wind_speed>30:
     print("it's windy today so be careful and wear a wind breaker if you can")
 else:
