@@ -16,8 +16,8 @@ if people == 0:
 
 else:
     if total_items % people == 0:
-        print("They divide equally.")
-        print(total_items // people)
+        print("They divide equally : ", total_items // people)
+        
 
     else:
         print("They do not divide equally")
@@ -32,9 +32,9 @@ total = recorded_average * total_weeks
 total = total - wrong_week_cost + correct_week_cost
 corrected_average = total / total_weeks
 
-print(recorded_average)
-print(total)
-print(corrected_average)
+print("recorded average is:",recorded_average)
+print("total is:",total )
+print("corrected average is:",corrected_average)
 
 store_a_average = 70
 store_b_average = 75
