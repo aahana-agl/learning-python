@@ -1,0 +1,12 @@
+print("📏📓The power clculator🥳")
+print("This calculator can calculate any powers you give in just a blink of an eye!")
+print("sooo... why dont we get started\n\n")
+
+
+x= int(input("Please enter a number "))
+y = int(input("Please enter a power "))
+
+result = for x result * base
+print("The final result is:", result)
+
+print("👋bye!😁")
